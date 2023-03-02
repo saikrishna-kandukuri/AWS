@@ -1,0 +1,12 @@
+{
+    "familyPersons": [
+        {
+            "name": "saikrishna",
+            "personStatus": "husband"
+        },
+        {
+            "name": "saidivya",
+            "personStatus": "wife"
+        }
+    ]
+}
